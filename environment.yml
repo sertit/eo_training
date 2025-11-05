@@ -1,4 +1,4 @@
-name: eosets
+name: eo_training
 channels:
   - conda-forge
 dependencies:
